@@ -1,6 +1,6 @@
 # Monitoring_Zergpool
 ## Bash file monitoring wallet to telegram
-![This is a alt text.](https://github.com/bayufrd/Monitoring_Zergpool/blob/main/image_2021-12-22_161618.png "Monitoring Zergpool.")
+![This is a alt text.](https://github.com/ngasqus/Monitoring_Zergpool/blob/main/image_2021-12-22_161618.png "Monitoring Zergpool.")
 ##### fitur
 * auto retry jika gagal mendapatkan api, sampai dapat.
 
@@ -63,7 +63,7 @@ Selesai =))
 ```
 [Solved] Sometimes error at reading total hashrate, cz im writin' code manual, total hashrate not available at api pool. Will solved as soon as posible =D "kalo ga mager"
 ```
-
+Credit : Mr. Bayu
 # Donasi
 * DOGE  : D8QyZTdUo6jLpx3RVj6pwbCmgeVh6pC59m
 * SKY   : 2gkeczcbPXSWUNKBzNVHoXbmBvqKEmQV5Gz
