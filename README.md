@@ -12,7 +12,7 @@ sudo apt install jq
 #### Cara Install
 * Buka terminal linux lalu jalankan
 ```
-wget -L https://raw.githubusercontent.com/bayufrd/Monitoring_Zergpool/main/stat.sh
+wget -L https://raw.githubusercontent.com/ngasqus/Monitoring_Zergpool/main/stat.sh
 ```
 
 * Edit file stat.sh dengan nano
